@@ -1,0 +1,6 @@
+{
+  "name": "Facial Emotion Recognition System",
+  "description": "Real-time facial emotion recognition, preprocessing pipeline, Action Unit feature extraction, and comprehensive classification performance evaluation with precision, recall, and F1-score.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
